@@ -1,0 +1,3 @@
+Name 	 Salary
+kuanl 	 12000
+vipul 	 30000
