@@ -2,6 +2,8 @@
 
 int main()
 {
+    printf("This program tell the day for a particular date\n");
+    printf("***********************************************\n");
     int year, day = 0;
     printf("Enter the year on which you wanna find its day on 1 Jan:");
     scanf("%d", &year);
